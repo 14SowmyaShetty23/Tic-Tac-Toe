@@ -1,4 +1,8 @@
 # 🕹️ Tic-Tac-Toe Game
+# Mr.CharBot
+
+[Live Demo](https://tic-tac-toe-by-sowmyashetty.vercel.app/)  
+Try out Mr.CharBot live in your browser!
 
 ![Tic-Tac-Toe Screenshot](assets/Front.png)
 
